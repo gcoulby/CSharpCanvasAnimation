@@ -1,0 +1,17 @@
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\bin\Debug\RPG.exe.config
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\bin\Debug\RPG.exe
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\bin\Debug\RPG.pdb
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\MainWindow.g.cs
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\SpriteCanvas.g.cs
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\App.g.cs
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG_MarkupCompile.cache
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG_MarkupCompile.lref
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\MainWindow.baml
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\SpriteCanvas.baml
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.g.resources
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.Cache
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.exe
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.pdb
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\home\documents\visual studio 2015\Projects\RPG\RPG\obj\Debug\RPG.csprojResolveAssemblyReference.cache
